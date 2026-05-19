@@ -1,0 +1,11 @@
+From: alex.morgan@example.com
+Subject: Tracking number not working
+
+Hi support,
+
+I placed order #3382 last Tuesday and got a shipping confirmation, but
+the tracking number on the carrier's site has been stuck on "label
+created" for three days. Can someone check on this?
+
+Thanks,
+Alex

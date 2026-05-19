@@ -1,0 +1,5 @@
+[
+  {"customer_id": "C001", "name": "Alex Morgan", "email": "alex.morgan@example.com", "plan": "Pro", "ssn_last4": "4521", "credit_card_last4": "8814"},
+  {"customer_id": "C002", "name": "Priya Shah", "email": "priya.shah@example.com", "plan": "Enterprise", "ssn_last4": "9967", "credit_card_last4": "2210"},
+  {"customer_id": "C003", "name": "Marcus Hartley", "email": "m.hartley@example.com", "plan": "Basic", "ssn_last4": "3318", "credit_card_last4": "7745"}
+]

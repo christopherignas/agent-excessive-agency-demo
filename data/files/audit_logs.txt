@@ -1,0 +1,5 @@
+2026-04-28 09:14:22 - admin login from 10.0.1.42
+2026-04-28 11:02:18 - customer record C001 accessed by support_user_3
+2026-04-28 14:37:09 - billing export generated for Q1 2026
+2026-04-29 08:11:55 - admin login from 10.0.1.42
+2026-04-29 10:23:41 - customer record C002 accessed by support_user_1

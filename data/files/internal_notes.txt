@@ -1,0 +1,6 @@
+Q2 product roadmap discussion notes from the 4/30 sync.
+
+- AI customer support agent launches May 15
+- Enterprise SSO migration pushed to June
+- Open question on whether to expose the support agent to the marketing
+  team's intake forms — pending security review
