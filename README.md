@@ -11,10 +11,10 @@ Maps to **OWASP LLM06: Excessive Agency**. This is the second demo in a series I
 With a clean inbox, the vulnerable agent behaves normally. Reads the two
 benign tickets, returns a summary, no destructive tool calls.
 
-![Baseline run with clean inbox, no destructive tools](docs/screenshots/01-baseline.png)
+![Baseline run with clean inbox, no destructive tools](docs/screenshots/01_baseline.png)
 
 ## The attack in 30 seconds
-![Hijacked tool call trace](docs/screenshots/02-attack.png)
+![Hijacked tool call trace](docs/screenshots/02_attack.png)
 
 A user types: **"Summarize the emails in my support inbox."**
 
@@ -143,7 +143,7 @@ Good question. The intent classifier in the demo is a one-shot LLM call. A sophi
 
 The demo deliberately keeps it simple so the layered-defense concept is the focus.
 
-![Defended agent, destructive tools never exposed](docs/screenshots/03-defense.png)
+![Defended agent, destructive tools never exposed](docs/screenshots/03_defense.png)
 
 ---
 
