@@ -64,11 +64,14 @@ When an attacker can plant a prompt injection in something the agent reads (an e
 
 ## Quick start
 
+Python 3.12 or later (see `.python-version`). Python 3.9 and 3.10 bundle a pip that still trusts the compromised eMudhra/emSign CA ([GHSA-hq85-5cpj-mr62](https://github.com/advisories/GHSA-hq85-5cpj-mr62)). Requires `pip>=26.2.2`. After creating the venv, upgrade pip and certifi before installing dependencies:
+
 ```bash
 git clone https://github.com/christopherignas/agent-excessive-agency-demo
 cd agent-excessive-agency-demo
 
 python -m venv .venv && source .venv/bin/activate
+python -m pip install --upgrade pip certifi
 pip install -r requirements.txt
 
 cp .env.example .env
